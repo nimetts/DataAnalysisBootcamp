@@ -21,7 +21,6 @@ The project uses **Pandas**, **Seaborn**, and **Matplotlib** for data analysis a
 - **Pandas** 🧑‍💻 for data manipulation
 - **NumPy** 🔢 for numerical calculations
 - **Seaborn** 📊 & **Matplotlib** 📈 for visualizations
-- **Scikit-learn** 🤖 for machine learning
 
 ---
 
